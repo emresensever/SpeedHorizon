@@ -2,7 +2,7 @@ Görüntü Ekle: Kullanıcıların ürünlerine görsel ekleyerek daha detaylı 
 
 Motor Gücüne Göre Filtrele: Kullanıcıların ürünleri motor gücüne göre sıralayarak aramalarını daraltmasını sağlayan bir özelliktir. Bu gereksinim, kullanıcıların belirli bir güç aralığında ürünleri kolayca bulmasına yardımcı olur. Filtreleme işlemi, genellikle minimum ve maksimum motor gücü değerleri girilerek yapılır.
 
-Rengine Göre Filtrele : Kullanıcıların ürünleri renklerine göre kategorize ederek arama yapmalarını sağlayan bir özelliktir. Bu işlevsellik, kullanıcıların tercihlerine uygun renk seçeneklerini hızlıca bulmalarına yardımcı olur. Renk filtreleme işlemi, genellikle standart renk kategorileri veya kullanıcı tarafından girilen özel renk seçenekleri ile gerçekleştirilir.
+Motor Hacmine Göre Filtrele: Kullanıcıların ürünleri (özellikle araçları) motor hacimlerine göre kategorize ederek arama yapmalarını sağlayan bir özelliktir. Bu işlevsellik, kullanıcıların performans, yakıt tüketimi ve vergi dilimi gibi beklentilerine uygun seçenekleri hızlıca bulmalarına yardımcı olur. Motor hacmi filtreleme işlemi, genellikle önceden tanımlanmış standart hacim aralıkları (örn: 0-1300 cc, 1301-1600 cc) veya kullanıcı tarafından girilen özel minimum ve maksimum değer aralıkları ile gerçekleştirilir.
 
 Fiyata Göre Filtrele: Kullanıcıların belirlenen fiyat aralıklarına göre ürünleri listeleyerek aramalarını daraltmasını sağlayan bir özelliktir. Bu özellik, bütçeye uygun ürünleri daha kolay bulmayı sağlar. Fiyat filtreleme, genellikle minimum ve maksimum fiyat aralıkları girilerek gerçekleştirilir.
 
